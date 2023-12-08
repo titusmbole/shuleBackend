@@ -1,6 +1,6 @@
 # Shule CSR Backend
 
-## Installation guide
+### Installation guide
 
 ```
   python manage.py runserver
